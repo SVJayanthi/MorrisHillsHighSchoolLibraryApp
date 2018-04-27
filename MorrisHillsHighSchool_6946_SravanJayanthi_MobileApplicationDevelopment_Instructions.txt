@@ -1,0 +1,10 @@
+To run the application:
+Download AppLibrary\app\build\outputs\apk\debug\app-debug.apk
+onto Android phone or emulator.
+
+To accesss code:
+Open AppLibrary\app\src\main\java\com\example\sravan\applibrary
+Open AppLibrary\app\src\main\res
+
+To access GUI screenshots:
+Open AppLibrary\GUIScreenshots
