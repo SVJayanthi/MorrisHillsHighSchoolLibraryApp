@@ -6,6 +6,7 @@ onto Android phone or emulator.
 
 To accesss code:
 Open MorrisHillsHighSchoolLibraryApp\app\src\main\java\com\example\sravan\applibrary
+
 Open MorrisHillsHighSchoolLibraryApp\app\src\main\res
 
 
