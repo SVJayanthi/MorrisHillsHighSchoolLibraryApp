@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Morris Hills HS Library</string>
+    <string name="welcome">Welcome </string>
+    <string name="app_logo">App Logo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search_books">Search Books</string>
+    <string name="search_hint">Search Title, Author, ...</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">user.name@android.com</string>
+    <string name="user_grade">Grade</string>
+
+    <string name="communicate">Communicate</string>
+    <string name="information">Information</string>
+    <string name="signout">Sign Out</string>
+    <string name="instructions">Instructions</string>
+    <string name="liscence">Liscence</string>
+    <string name="report">Report</string>
+
+
+    <string name="rec_book">Recommended Boooks</string>
+    <string name="tre_book">Trending Boooks</string>
+    <string name="event_cal">Events Calendar</string>
+    <string name="more">More</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_books">Books</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_backpack">Backpack</string>
+
+
+    <string name="cart_out">Cart Items</string>
+    <string name="bag_out">Add to Cart</string>
+    <string name="book_out">Books Out</string>
+
+    <string name="title_resources">Resources</string>
+    <string name="book_title">Book Title</string>
+    <string name="author_title">Author Name</string>
+    <string name="description">Book Description</string>
+    <string name="preview">Book Preview</string>
+    <string name="search">Search</string>
+    <string name="other">Others You May Be Interested In:</string>
+    <string name="results">Results:</string>
+
+    <string name="category">Category</string>
+    <string name="reserve_books">Reserve Book</string>
+    <string name="reserve_date">Reserve Date</string>
+    <string name="reserve_complete">Complete Reservation</string>
+
+    <string name="check_out">Check Out</string>
+    <string name="return_book">Return</string>
+    <string name="reserve">Reserve</string>
+    <string name="share">Share</string>
+    <string name="tweet">Tweet</string>
+    <string name="rate">Rate and Comment</string>
+    <string name="review">Write a review of the book</string>
+    <string name="review_title">Review Title</string>
+    <string name="rating">Rating</string>
+    <string name="available">Available</string>
+    <string name="calendar">Add to my Calendar</string>
+    <string name="similar">Similar Books</string>
+    <string name="reviews">Book Reviews</string>
+    <string name="returnb">Return Book</string>
+
+    <string name="event_title">Event Title</string>
+    <string name="event_info">Event Details</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+
+    <string name="map">Library Map</string>
+    <string name="author1">A-D</string>
+    <string name="author2">E-K</string>
+    <string name="author3">L-R</string>
+    <string name="author4">S-Z</string>
+
+    <string name="gale">Gale E-Books</string>
+    <string name="infobase">Infobase Library</string>
+    <string name="jstor">JSTOR Journals</string>
+
+    <string name="experience">Feel free to write about and report any bugs with the application.</string>
+    <string name="comment_report">Common Errors</string>
+    <string name="submit">Submit</string>
+
+
+    <string-array name="book_order">
+        <item>Author</item>
+        <item>Book Title</item>
+        <item>Trending</item>
+        <item>Recommended</item>
+        <item>Available</item>
+        <item>Average Rating</item>
+    </string-array>
+
+
+    <string-array name="order">
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>Teacher</item>
+    </string-array>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">Name</string>
+    <string name="prompt_grade">Grade</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+
+    <!-- The label for use as a searchable item -->
+    <string name="search_label">Bookshelf</string>
+
+    <!-- The menu entry that invokes search. -->
+    <string name="menu_search">Search</string>
+
+    <!-- The description that will show up in the search settings for this source.  -->
+    <string name="settings_description">Books</string>
+
+    <!-- General instructions in the main activity. -->
+    <string name="search_instructions">Use the search box in the Action Bar to look up a book</string>
+
+    <!-- Shown above search results when we receive a search request. -->
+    <plurals name="search_results">
+        <item quantity="one">%1$d result for \"%2$s\": </item>
+        <item quantity="other">%1$d results for \"%2$s\": </item>
+    </plurals>
+
+    <!-- Search failure message. -->
+    <string name="no_results">No results found for \"%s\"</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">eD00kP49wU9JI9XZHUnoFgBq6</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">9YQL275kYGW9YLy5dN7S3FxUALemwlcd7yZ6JLKNxJcx1JG9pt</string>
+</resources>

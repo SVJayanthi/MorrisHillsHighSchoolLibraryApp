@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#34495e"/>
+            <!--corners allow us to make the rounded cornbutton_sign_intton-->
+            <corners android:bottomRightRadius="15dp" android:bottomLeftRadius="0dp"
+                android:topLeftRadius="0dp" android:topRightRadius="15dp"/>
+        </shape>
+    </item>
+</selector>

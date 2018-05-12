@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/signout"
+            android:title="@string/signout" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+        </menu>
+    </item>
+    <item android:title="@string/information">
+        <menu>
+            <item
+                android:id="@+id/nav_instructions"
+                android:icon="?android:attr/actionModePasteDrawable"
+                android:title="@string/instructions" />
+            <item
+                android:id="@+id/nav_resources"
+                android:icon="@drawable/book"
+                android:title="@string/title_resources" />
+            <item
+                android:id="@+id/nav_liscence"
+                android:icon="?android:attr/actionModeFindDrawable"
+                android:title="@string/liscence" />
+            <item
+                android:id="@+id/nav_report"
+                android:icon="?android:attr/alertDialogIcon"
+                android:title="@string/report" />
+        </menu>
+
+    </item>
+
+</menu>

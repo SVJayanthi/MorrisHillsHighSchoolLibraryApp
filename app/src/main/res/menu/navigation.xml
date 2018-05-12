@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_books"
+        android:icon="@drawable/book"
+        android:title="@string/title_books" />
+
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@drawable/calendaring"
+        android:title="@string/title_calendar" />
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/map_view"
+        android:title="@string/title_maps" />
+    <item
+        android:id="@+id/navigation_backpack"
+        android:icon="@drawable/backpack"
+        android:title="@string/title_backpack" />
+</menu>
