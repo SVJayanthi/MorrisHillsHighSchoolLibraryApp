@@ -1,6 +1,6 @@
 # MorrisHillsHighSchoolLibraryApp
 
-![app.png](https://github.com/SVJayanthi/MandelbrotSet/blob/master/output/mandelbrot_1.png)
+![app.png](https://github.com/SVJayanthi/MorrisHillsHighSchoolLibraryApp/blob/master/app/src/main/res/drawable-xxhdpi/booknewmaincut.png)
 
 ## Author
 Sravan Jayanthi
