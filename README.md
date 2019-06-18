@@ -12,7 +12,6 @@ The Morris Hills HS Library App is fully functional library app that allows user
 
 ### Run the application:
 Download `MorrisHillsHighSchoolLibraryApp\app\release\app-release.apk` 
-
 onto Android phone or emulator.
 
 ### To access code:
