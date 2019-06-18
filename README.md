@@ -2,6 +2,9 @@
 
 ![app.png](https://github.com/SVJayanthi/MandelbrotSet/blob/master/output/mandelbrot_1.png)
 
+## Author
+Sravan Jayanthi
+
 ## Synopsis
 The Morris Hills HS Library App is fully functional library app that allows users to browse through books and checkout and return books. The information for each of the books is stored on a server so different users on different phones can access the same information on the book (rating, author, etc.) and its availibility to check out. 
 
@@ -61,8 +64,6 @@ Sample of recieving data about a book from the server to display for the User.
             });
         }
     
-## Author
-Sravan Jayanthi
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
