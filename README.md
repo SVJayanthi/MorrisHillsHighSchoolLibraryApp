@@ -61,6 +61,8 @@ Sample of recieving data about a book from the server to display for the User.
             });
         }
     
+## Author
+Sravan Jayanthi
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
