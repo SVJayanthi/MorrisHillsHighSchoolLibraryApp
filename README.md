@@ -12,10 +12,12 @@ The Morris Hills HS Library App is fully functional library app that allows user
 
 ### Run the application:
 Download `MorrisHillsHighSchoolLibraryApp\app\release\app-release.apk` 
+
 onto Android phone or emulator.
 
 ### To access code:
 Open `MorrisHillsHighSchoolLibraryApp\app\src\main\java\com\example\sravan\applibrary` 
+
 Open `MorrisHillsHighSchoolLibraryApp\app\src\main\res`
 
 ### To access GUI screenshots:
@@ -82,4 +84,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 [MIT](LICENSE)
