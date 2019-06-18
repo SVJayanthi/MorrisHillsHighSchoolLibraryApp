@@ -2,8 +2,6 @@
 
 ![app.png](https://github.com/SVJayanthi/MorrisHillsHighSchoolLibraryApp/blob/master/app/src/main/res/drawable-xxhdpi/booknewmaincut.png)
 
-![phone.png](https://github.com/SVJayanthi/MorrisHillsHighSchoolLibraryApp/blob/master/GUIScreenshots/Imp.PNG)
-
 ## Author
 Sravan Jayanthi
 
@@ -67,6 +65,8 @@ Sample of recieving data about a book from the server to display for the User.
             });
         }
     
+
+![phone.png](https://github.com/SVJayanthi/MorrisHillsHighSchoolLibraryApp/blob/master/GUIScreenshots/Imp.PNG)
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
