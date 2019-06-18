@@ -2,31 +2,21 @@
 
 ![app.png](https://github.com/SVJayanthi/MandelbrotSet/blob/master/output/mandelbrot_1.png)
 
-
-To run the application-  
-Download MorrisHillsHighSchoolLibraryApp\app\release\app-release.apk   
-onto Android phone or emulator.
-
-To accesss code-  
-Open MorrisHillsHighSchoolLibraryApp\app\src\main\java\com\example\sravan\applibrary  
-Open MorrisHillsHighSchoolLibraryApp\app\src\main\res
-
-
 ## Synopsis
 The Morris Hills HS Library App is fully functional library app that allows users to browse through books and checkout and return books. The information for each of the books is stored on a server so different users on different phones can access the same information on the book (rating, author, etc.) and its availibility to check out. 
 
 ## Usage
 
 ### Run the application:
-Download MorrisHillsHighSchoolLibraryApp\app\release\app-release.apk   
+Download `MorrisHillsHighSchoolLibraryApp\app\release\app-release.apk   `
 onto Android phone or emulator.
 
 ### To access code:
-Open MorrisHillsHighSchoolLibraryApp\app\src\main\java\com\example\sravan\applibrary  
-Open MorrisHillsHighSchoolLibraryApp\app\src\main\res
+Open `MorrisHillsHighSchoolLibraryApp\app\src\main\java\com\example\sravan\applibrary  `
+Open `MorrisHillsHighSchoolLibraryApp\app\src\main\res`
 
 ### To access GUI screenshots:
-Open MorrisHillsHighSchoolLibraryApp\GUIScreenshots
+Open `MorrisHillsHighSchoolLibraryApp\GUIScreenshots`
 
 ## Design
 Each User creates their own account which is stored on a server with personal information used to recommend books. Once the User has created an account and logged in, the home screen will display a selection of personalized books from the server recommended for the User to read. Trending books are highlighted based off what recent Users on different phones have been looking at. If the user wishes to check out a book, the information about the book is read from the server to make sure there is at least one book available for the user to read. Once it is time to return the book, the user can return the novel and the server will update for the available book for other Users who wish to reserve the book. An interactive map of the library is provided for the User to see and search the books in the library. The User can search books based off a variety of categories such as the average rating, trending books, or available books. The User can select a book to analyze its details and interact with the book. The User can share their interest on social media or rate the book for future User's reference. The Calendar displays a list of the upcoming due dates for books and events at the library. There is also resources tab that lists sources for the User to conduct professional research from. 
@@ -71,9 +61,8 @@ Sample of recieving data about a book from the server to display for the User.
             });
         }
     
-   
-   
-License:  
+
+## License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -90,3 +79,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+[MIT](LICENSE)
